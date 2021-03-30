@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558377935 source:c:\users\samsung\desktop\algoritma 2 proje\banka.otomasyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+
+1558397631 source:c:\users\samsung\desktop\algoritma ve programlama 2 proje\banka.otomasyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+
