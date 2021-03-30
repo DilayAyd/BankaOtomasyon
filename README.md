@@ -1,7 +1,7 @@
 # BankaOtomasyon
 <p> 2018/2019 Algoritma ve Programlama dersi dönem ödevi</p>
-Hazırlayanlar:
-Taner Filiz
-Dilay Aydoğdu 
-Melis Nur Kılıç
-Berkcan Ceylan
+<p> Hazırlayanlar:</p>
+<p> Taner Filiz</p>
+<p> Dilay Aydoğdu </p>
+<p> Melis Nur Kılıç</p>
+<p> Berkcan Ceylan</p>
